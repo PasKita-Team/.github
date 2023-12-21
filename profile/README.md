@@ -8,20 +8,18 @@
 
 ## Feature 
 
-| Main Features                | Description                                                                                 |
-|------------------------------|----------------------------------------------------------------------------------------------|
-|   |                                                           |
-|   |                            |
-|  |                                             |
-|                                                                                                     |
-|                |                                                    |
-|              |                                                 |
-|         |                                                           |
+| Main Features                              | Description                                                                                 |
+|------------------------------------------- |---------------------------------------------------------------------------------------------|
+|Guaranteeing product authenticity           |PasKita ensures that all products marketed are original/authentic.                           |
+|Search for products using images and voice. |Paskita can search for products using images and voice.                                      |
+|Generate product photos for sellers.        |PasKita help to the sellers generated their photos product                                   |
+|Google authentification                     |You can login in PasKita just with one click with your google account                        |
+|Shipping cost check                         |You can shipping cost check for product you want to buy                                      |
 
 ---
 
 ## Team Members
-### Bangkit 2023 Capstone Team 
+### Bangkit 2023 Capstone Team CH2-PS240
 
 | ID              | Name                             | Learning Path       |
 |:----------------|:-------------------------------  |:--------------------|
