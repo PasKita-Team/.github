@@ -40,8 +40,8 @@
 - **[Train Model Repositories](https://github.com/PasKita-Team/PasKita-MachineLearning)**: Contains trained models for generate template.
 
 ### Cloud Computing
-- **Tech Stack**: Firebase, 
-- **[ML API Repositories](https://github.com/PasKita-Team/PasKita-MachineLearning)**: Handles ML model API and fetches details from the database.
+- **Tech Stack**: Firebase, Docker, Google Cloud
+- **[ML API Repositories](https://github.com/PasKita-Team/PasKita-CloudComputing)**: Handles ML model API and fetches details from the database.
 
 ### Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit, Volley, Firebase.
