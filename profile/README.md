@@ -4,7 +4,7 @@
 
 
 ## Download Our App
-[Download PasKita App]()
+[Download PasKita App](https://mega.nz/file/N7kR3QII#34PWcoT8KKg9sVzFmM0TVHp9xH7FbV_GKFL2ApquJvs)
 
 ## Feature 
 
@@ -23,15 +23,15 @@
 ## Team Members
 ### Bangkit 2023 Capstone Team 
 
-| ID              | Name                           | Learning Path       |
-|:----------------|:-------------------------------|:--------------------|
-|     |  | Machine Learning    |
-|      |                      | Machine Learning    |
-|      |      | Machine Learning    |
-|      |         | Cloud Computing     |
-|      |  | Cloud Computing     |
-|      |      | Mobile Development  |
-|      |                   | Mobile Development  |
+| ID              | Name                             | Learning Path       |
+|:----------------|:-------------------------------  |:--------------------|
+| M247BSY0284     | M. Rizki Simanullang             | Machine Learning    |
+| M524BSY0282     | Muhammad Iskandar                | Machine Learning    |
+| M314BSY0498     | Yaspin Andika Muhamad Nur Cholis | Machine Learning    |
+| C247BSX3446     | Annisa Maghfirah                 | Cloud Computing     |
+| C183BSY3482     | Imam Noor Arifin                 | Cloud Computing     |
+| A350BSY2233     | Afwan Sutdrajat                  | Mobile Development  |
+| A502BSX2874     | Siti Romadiah                    | Mobile Development  |
 
 ---
 
@@ -39,15 +39,15 @@
 
 ### Machine Learning
 - **Tech Stack**: TensorFlow & Keras.
-- **[Train Model Repositories]()**: Contains trained models for image recognition.
+- **[Train Model Repositories](https://github.com/PasKita-Team/PasKita-MachineLearning)**: Contains trained models for generate template.
 
 ### Cloud Computing
-- **Tech Stack**: FastAPI, Firebase, Node.js, Express.js.
-- **[ML API Repositories]()**: Handles ML model API and fetches details from the database.
+- **Tech Stack**: Firebase, 
+- **[ML API Repositories](https://github.com/PasKita-Team/PasKita-MachineLearning)**: Handles ML model API and fetches details from the database.
 
 ### Mobile Development
-- **Tech Stack**: Android SDK, Kotlin, Retrofit.
-- **[App Repositories]()**
+- **Tech Stack**: Android SDK, Kotlin, Retrofit, Volley, Firebase.
+- **[App Repositories](https://github.com/PasKita-Team/PasKita-Mobile-App)**
 
 ---
 
