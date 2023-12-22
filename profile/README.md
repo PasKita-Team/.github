@@ -38,8 +38,6 @@ more like a community. So, "Paskita" is not only making SMEs more powerful, but 
 <img width="240" src="https://github.com/PasKita-Team/PasKita-Mobile-App/blob/main/resources/gif2.gif">
 </p>
 
-## Download Our App
-
 ## Feature 
 
 | Main Features                              | Description                                                                                 |
