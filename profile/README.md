@@ -1,6 +1,9 @@
 ## Hi there 👋
 # PasKita
-![App Preview]()
+# App Preview
+<p align="center">
+<img width="240" src="https://github.com/PasKita-Team/PasKita-Mobile-App/blob/main/resources/gif1.gif">
+</p>
 
 ## PasKita-Mobile-App
 
@@ -21,9 +24,6 @@ Clone this repository and import into **Android Studio**
 git clone https://github.com/PasKita-Team/PasKita-Mobile-App.git
 ```
 
-<p align="center">
-<img width="240" src="https://github.com/PasKita-Team/PasKita-Mobile-App/blob/main/resources/gif1.gif">
-</p>
 
 ## Generate 
 
