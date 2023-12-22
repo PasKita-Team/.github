@@ -39,7 +39,6 @@ more like a community. So, "Paskita" is not only making SMEs more powerful, but 
 </p>
 
 ## Download Our App
-[Download PasKita App](https://mega.nz/file/N7kR3QII#34PWcoT8KKg9sVzFmM0TVHp9xH7FbV_GKFL2ApquJvs)
 
 ## Feature 
 
